@@ -16,6 +16,12 @@ class App extends Component<AppProps, AppState> {
     };
   }
 
+  componentDidMount(){
+    console.log('Yeahhhh')
+    console.log('Yeahhhh')
+    console.log('Yeahhhh')
+  }
+
   render() {
     return (
       <div>
